@@ -1,3 +1,3 @@
 # Doomka
 
-[DEP](do-omka.github.io/DEP/index.html "1st try")
+[DEP](DEP/index.html "1st try")
